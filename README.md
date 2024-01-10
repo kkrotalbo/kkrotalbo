@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Oracle-red?logo=oracle)
+![Static Badge](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
+![Static Badge](https://img.shields.io/badge/Jmeter-black?logo=apachejmeter)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkrotalbo&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Interest
 ![Static Badge](https://img.shields.io/badge/Bitcoin-black?logo=bitcoin) 
+Fútbol :soccer:
