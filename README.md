@@ -1,4 +1,4 @@
-### Hi. I Victor !! 👋. I'm currently working as Technical Leader
+### Hi. I'm Victor !! 👋. I'm currently working as Technical Leader
 
 <!--
 **kkrotalbo/kkrotalbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
