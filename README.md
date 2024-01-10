@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/hola-mundo-blue)
 
-**My Tech Stack
+**My Tech Stack**
 ![Static Badge](https://img.shields.io/badge/Java-purple)
 ![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
